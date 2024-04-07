@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ButtonTest 1`] = `
+<button
+  className="sc-beySPh sc-guDLey imwjKu eWxMxk"
+/>
+`;
